@@ -1,16 +1,33 @@
-### Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**marcelitos1v9/marcelitos1v9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina.
 
-Here are some ideas to get you started:
+- 🎓 Formado em Técnico em Desenvolvimento de Sistemas pela Etec Registro.
+- 📚 Atualmente, estou estudando Desenvolvimento de Software Multiplataforma na FATEC de Registro.
+- 🌱 Também estou aprendendo mais sobre processamento de linguagem natural.
+- 👯 Busco colaborar em projetos de código aberto relacionados a Python, IA e desenvolvimento web.
+- 💬 Pergunte-me sobre programação, Python e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+
+## Projetos Destacados
+
+### Projeto 1: Loja Online em PHP
+Desenvolvi uma loja online completa utilizando PHP e MySQL. [Link para o repositório](link_do_repositorio)
+
+### Projeto 2: Aplicativo Móvel em React Native
+Criei um aplicativo móvel multiplataforma com React Native para monitoramento de tarefas. [Link para o repositório](link_do_repositorio)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelitos1v9&show_icons=true&theme=radical)
+
+## Entre em Contato
+
+- LinkedIn: [Seu LinkedIn](URL_do_LinkedIn)
+- Twitter: [@SeuTwitter](URL_do_Twitter)
