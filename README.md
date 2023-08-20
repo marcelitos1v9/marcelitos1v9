@@ -1,34 +1,5 @@
 # Olá, eu sou Marcelo Augusto! 👋
 
-<script>
-const typer = (text, element) => {
-  let displayText = '';
-  let textIndex = 0;
-
-  const type = setInterval(() => {
-    displayText += text[textIndex];
-    element.textContent = displayText;
-    textIndex++;
-
-    if (textIndex === text.length) {
-      clearInterval(type);
-      setTimeout(() => {
-        const deleteInterval = setInterval(() => {
-          displayText = displayText.slice(0, -1);
-          element.textContent = displayText;
-
-          if (displayText === '') {
-            clearInterval(deleteInterval);
-            typer(text, element);
-          }
-        }, 100);
-      }, 1000);
-    }
-  }, 150);
-}; 
-</script>
-const nameElement = document.querySelector('.name');
-typer('Front-end, Back-end, Full-stack, Mobile, Desktop', nameElement);
 ## Sobre Mim
 Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina.
 
