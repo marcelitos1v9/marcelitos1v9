@@ -1,6 +1,6 @@
 # Olá, eu sou Marcelo Augusto! 👋
 
-typescript
+<script>
 const typer = (text, element) => {
   let displayText = '';
   let textIndex = 0;
@@ -26,7 +26,7 @@ const typer = (text, element) => {
     }
   }, 150);
 }; 
-
+</script>
 const nameElement = document.querySelector('.name');
 typer('Front-end, Back-end, Full-stack, Mobile, Desktop', nameElement);
 ## Sobre Mim
