@@ -41,11 +41,12 @@ Uma interface web que busca a temperatura de cidades brasileiras por meio de API
 
 ## Contato
 
-- LinkedIn: [LinkedIn](URL_do_LinkedIn)
-- Twitter: [@Twitter](URL_do_Twitter)
-- Email: seuemail@example.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelo-augusto-a73827273)
+- Email: marceloaugustocge@gmail.com
 
 ## Certificações
 
 - Técnico em Desenvolvimento de Sistemas (Etec Registro)
-- Certificado em Desenvolvimento Web (Coursera)
+- Python - 40 horas (curso em video)
+- Javascript - 40 horas (curso em video)
+- Hardware - 20 horas (curso em video)
