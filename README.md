@@ -21,11 +21,11 @@ Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e apr
 
 ## Projetos Destacados
 
-### Projeto 1: Loja Online em PHP
-Desenvolvi uma loja online completa utilizando PHP e MySQL. [Link para o repositório](link_do_repositorio)
+### Projeto 1: Apex Bank (PHP)
+Um projeto de banco que permite realizar transações, validações e muito mais. [Link para o repositório](link_do_repositorio_apex)
 
-### Projeto 2: Aplicativo Móvel em React Native
-Criei um aplicativo móvel multiplataforma com React Native para monitoramento de tarefas. [Link para o repositório](link_do_repositorio)
+### Projeto 2: Termocity (Bootstrap e JavaScript)
+Uma interface web que busca a temperatura de todas as cidades do Brasil por meio de API. [Link para o repositório](link_do_repositorio_termocity)
 
 ## Estatísticas do GitHub
 
