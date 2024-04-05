@@ -94,3 +94,5 @@ Uma interface web que busca a temperatura de cidades brasileiras por meio de API
 - Python - 40 horas (curso em video)
 - Javascript - 40 horas (curso em video)
 - Hardware - 20 horas (curso em video)
+- 
+![image load fail. please open proxy retry](https://github.com/marcelitos1v9/commit-snake/blob/snk/snk.svg)
