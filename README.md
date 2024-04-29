@@ -81,7 +81,7 @@ Uma interface web que busca a temperatura de cidades brasileiras por meio de API
 
 ##visitantes
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=marcelitos1v9.marcelitos1v9)
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=marcelitos1v9&color=blueviolet)
 
 ## Ferramentas e Tecnologias
 - Git
