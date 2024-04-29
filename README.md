@@ -79,7 +79,7 @@ Uma interface web que busca a temperatura de cidades brasileiras por meio de API
 ## Linguagens Mais Utilizadas
 ![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&theme=dark)
 
-##visitantes
+## visitantes
 
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=marcelitos1v9&color=blueviolet)
 
