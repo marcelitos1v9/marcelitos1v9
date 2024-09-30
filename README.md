@@ -61,6 +61,3 @@ Interface web intuitiva para consulta de temperaturas em cidades brasileiras via
 
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=marcelitos1v9&color=blueviolet&style=for-the-badge)
 
-<div align="center">
-  <img src="https://github.com/marcelitos1v9/commit-snake/blob/snk/snk.svg" alt="Snake animation" />
-</div>
