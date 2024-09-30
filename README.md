@@ -1,102 +1,66 @@
-<!-- # Olá, eu sou Marcelo Augusto! 👋
+# Olá, sou Marcelo Augusto! 👨‍💻
 
-## Sobre Mim
-Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Entusiasta+de+IA;Aprendiz+Constante&center=true&width=380&height=45">
+</div>
 
-- 🎓 Formado em Técnico em Desenvolvimento de Sistemas pela Etec Registro.
-- 📚 Estudando Desenvolvimento de Software Multiplataforma na FATEC de Registro.
-- 🌱 Aprendendo sobre processamento de linguagem natural e inteligência artificial.
-- 👯 Buscando colaborar em projetos de código aberto e iniciativas tecnológicas.
-- 💬 Aberto para discussões sobre programação, desenvolvimento web e inovação.
+## 🚀 Sobre Mim
 
-## Habilidades
+Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada inclui:
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF9900?style=flat-square&logo=pytorch&logoColor=white)
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pela ETEC Registro
+- 📚 Cursando Desenvolvimento de Software Multiplataforma na FATEC Registro
+- 🌱 Explorando as fronteiras da IA e Processamento de Linguagem Natural
+- 🤝 Colaborador ativo em projetos open-source
 
-## Projetos Destacados
+## 💻 Tecnologias & Ferramentas
 
-### Apex Bank (PHP)
-Um sistema bancário que permite realizar transações, validações e gerenciamento de contas. [Repositório](link_do_repositorio_apex)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF9900?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Termocity (Bootstrap e JavaScript)
-Uma interface web que busca a temperatura de cidades brasileiras por meio de API. [Repositório](link_do_repositorio_termocity)
+## 🏆 Projetos Destacados
 
-## Estatísticas do GitHub
+<details>
+<summary><b>Apex Bank (PHP)</b></summary>
+Sistema bancário robusto com funcionalidades avançadas de transações e gerenciamento de contas.
+<br>[Ver Projeto](link_do_repositorio_apex)
+</details>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelitos1v9&show_icons=true&theme=dark)
+<details>
+<summary><b>Termocity (Bootstrap & JavaScript)</b></summary>
+Interface web intuitiva para consulta de temperaturas em cidades brasileiras via API.
+<br>[Ver Projeto](link_do_repositorio_termocity)
+</details>
 
-## Linguagens Mais Utilizadas
+## 📊 Estatísticas GitHub
 
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelitos1v9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-## Ferramentas e Tecnologias
+## 🌟 Conquistas
 
-- Git
-- VS Code
-- Docker
+- 🏅 Técnico em Desenvolvimento de Sistemas (ETEC Registro)
+- 🎖️ Python - 40 horas (Curso em Vídeo)
+- 🎖️ JavaScript - 40 horas (Curso em Vídeo)
+- 🎖️ Hardware - 20 horas (Curso em Vídeo)
 
-## Contato
+## 🤝 Conecte-se Comigo
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelo-augusto-a73827273)
-- Email: marceloaugustocge@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-a73827273)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceloaugustocge@gmail.com)
 
-## Certificações
+## 👀 Visitantes
 
-- Técnico em Desenvolvimento de Sistemas (Etec Registro)
-- Python - 40 horas (curso em video)
-- Javascript - 40 horas (curso em video)
-- Hardware - 20 horas (curso em video)
- -->
+![Visitas ao Perfil](https://komarev.com/ghpvc/?username=marcelitos1v9&color=blueviolet&style=for-the-badge)
 
-
-
-
-# Olá, eu sou Marcelo Augusto! 👋
-
-## Sobre Mim
-Sou um entusiasta de tecnologia apaixonado por desenvolvimento de software e aprendizado de máquina. Atualmente, estou estudando Desenvolvimento de Software Multiplataforma na FATEC de Registro. Busco colaborar em projetos de código aberto relacionados a Python, IA e desenvolvimento web.
-
-## Habilidades
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF9900?style=flat-square&logo=pytorch&logoColor=white)
-## Projetos Destacados
-### Apex Bank (PHP)
-Um sistema bancário que permite realizar transações, validações e gerenciamento de contas. [Repositório](link_do_repositorio_apex)
-
-### Termocity (Bootstrap e JavaScript)
-Uma interface web que busca a temperatura de cidades brasileiras por meio de API. [Repositório](link_do_repositorio_termocity)
-
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelitos1v9&show_icons=true&theme=dark)
-
-## Linguagens Mais Utilizadas
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&theme=dark)
-
-## visitantes
-
-![Visitas ao Perfil](https://komarev.com/ghpvc/?username=marcelitos1v9&color=blueviolet)
-
-## Ferramentas e Tecnologias
-- Git
-- VS Code
-- Docker
-
-## Contato
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-a73827273)
-- Email: marceloaugustocge@gmail.com
-
-
-## Certificações
-- Técnico em Desenvolvimento de Sistemas (Etec Registro)
-- Python - 40 horas (curso em video)
-- Javascript - 40 horas (curso em video)
-- Hardware - 20 horas (curso em video)
-- 
-![image load fail. please open proxy retry](https://github.com/marcelitos1v9/commit-snake/blob/snk/snk.svg)
+<div align="center">
+  <img src="https://github.com/marcelitos1v9/commit-snake/blob/snk/snk.svg" alt="Snake animation" />
+</div>
