@@ -1,7 +1,7 @@
 # Olá, sou Marcelo Augusto! 👨‍💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Entusiasta+de+IA;Aprendiz+Constante&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Entusiasta+de+IA;Engenheiro+de+Dados;Analista+de+Dados&center=true&width=380&height=45">
 </div>
 
 ## 🚀 Sobre Mim
@@ -10,8 +10,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
 
 - 🎓 Formação técnica em Desenvolvimento de Sistemas pela ETEC Registro
 - 📚 Cursando Desenvolvimento de Software Multiplataforma na FATEC Registro
-- 🌱 Explorando as fronteiras da IA e Processamento de Linguagem Natural
+- 🌱 Explorando as fronteiras da IA, Processamento de Linguagem Natural e Engenharia de Dados
 - 🤝 Colaborador ativo em projetos open-source
+- ☁️ AWS Certified Cloud Practitioner
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -23,6 +24,10 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🏆 Projetos Destacados
 
@@ -38,6 +43,12 @@ Interface web intuitiva para consulta de temperaturas em cidades brasileiras via
 <br>[Ver Projeto](link_do_repositorio_termocity)
 </details>
 
+<details>
+<summary><b>Análise de Dados AWS (Python & AWS)</b></summary>
+Projeto de análise de dados utilizando serviços AWS como S3, Redshift e Athena.
+<br>[Ver Projeto](link_do_repositorio_aws_data_analysis)
+</details>
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -48,6 +59,7 @@ Interface web intuitiva para consulta de temperaturas em cidades brasileiras via
 ## 🌟 Conquistas
 
 - 🏅 Técnico em Desenvolvimento de Sistemas (ETEC Registro)
+- ☁️ AWS Certified Cloud Practitioner
 - 🎖️ Python - 40 horas (Curso em Vídeo)
 - 🎖️ JavaScript - 40 horas (Curso em Vídeo)
 - 🎖️ Hardware - 20 horas (Curso em Vídeo)
@@ -60,4 +72,3 @@ Interface web intuitiva para consulta de temperaturas em cidades brasileiras via
 ## 👀 Visitantes
 
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=marcelitos1v9&color=blueviolet&style=for-the-badge)
-
