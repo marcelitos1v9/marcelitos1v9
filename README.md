@@ -19,6 +19,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
 - 🌱 Explorando as fronteiras da IA, Processamento de Linguagem Natural e Engenharia de Dados
 - 🤝 Colaborador ativo em projetos open-source
 - ☁️ AWS Certified Cloud Practitioner
+- 🚀 Sempre em busca de novos desafios e aprendizados
+- 🌐 Entusiasta de tecnologias web e mobile
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -39,6 +41,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
   <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center">
@@ -48,13 +53,13 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
 ## 🏆 Projetos Destacados
 
 <div align="center">
-  <a href="link_do_repositorio_apex">
+  <a href="https://github.com/marcelitos1v9/apex-bank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelitos1v9&repo=apex-bank&theme=radical" />
   </a>
-  <a href="link_do_repositorio_termocity">
+  <a href="https://github.com/marcelitos1v9/termocity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelitos1v9&repo=termocity&theme=radical" />
   </a>
-  <a href="link_do_repositorio_aws_data_analysis">
+  <a href="https://github.com/marcelitos1v9/aws-data-analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelitos1v9&repo=aws-data-analysis&theme=radical" />
   </a>
 </div>
@@ -82,7 +87,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-## 🌟 Conquistas
+## 🌟 Conquistas e Certificações
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Técnico%20em%20Desenvolvimento%20de%20Sistemas-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
@@ -90,7 +95,21 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
   <img src="https://img.shields.io/badge/-Python%20(40h)-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript%20(40h)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Hardware%20(20h)-4CAF50?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scrum%20Fundamentals-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+## 📚 Aprendizado Contínuo
+
+Atualmente, estou focado em:
+
+- 🧠 Aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning
+- 🌐 Explorando arquiteturas de microserviços e computação em nuvem
+- 📊 Aprimorando minhas habilidades em análise e visualização de dados
+- 🔒 Estudando práticas de segurança cibernética e proteção de dados
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -105,6 +124,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
   <a href="mailto:marceloaugustocge@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/marcelitos1v9">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ## 👀 Visitantes
@@ -116,3 +138,5 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras. Minha jornada i
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato para colaborações ou apenas para trocar ideias sobre tecnologia. 😊
