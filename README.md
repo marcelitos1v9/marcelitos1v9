@@ -74,7 +74,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e impactantes. M
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelitos1v9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&langs_count=7&theme=radical&count_private=true"/>
 </div>
 
 <p align="center">
