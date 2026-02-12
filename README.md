@@ -1,1 +1,99 @@
-<div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00d2ff%26height%3D250%26section%3Dheader%26text%3DMarcelo%2520Augusto%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DSoftware%2520Engineer%2520|%20AI%20%26%20Data%20Enthusiast&descAlignY=55&descSize=25" width="100%"/></div><div align="center"><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DFull%2BStack%2BDeveloper%3BAI%2BSpecialist%3BData%2BEngineer%3BAWS%2BCloud%2BPractitioner%3BInnovation%2BDriven%26center%3Dtrue%26width%3D500%26height%3D50%26color%3D00d2ff%26vCenter%3Dtrue%26size%3D25"></div>🚀 Sobre MimSou um desenvolvedor focado em construir o futuro através de código e dados. Minha paixão reside na intersecção entre Inteligência Artificial e Engenharia de Software, transformando dados brutos em insights e sistemas escaláveis.🎓 FATEC Registro: Cursando Desenvolvimento de Software Multiplataforma.🎓 ETEC Registro: Técnico em Desenvolvimento de Sistemas.☁️ Cloud: AWS Certified Cloud Practitioner.🧠 Foco: Arquiteturas distribuídas, LLMs, Computer Vision e Pipelines de Dados.💬 Propósito: Resolver problemas complexos com soluções elegantes e eficientes.🛠️ Toolbox TecnológicaDomínioTecnologiasFrontend & MobileBackendIA & DadosCloud & InfraBancos de Dados🏆 Projetos em Destaque<div align="center"><table border="0"><tr><td><a href="https://github.com/marcelitos1v9/apex-bank"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dmarcelitos1v9%26repo%3Dapex-bank%26theme%3Dradical%26show_owner%3Dtrue" /></a></td><td><a href="https://github.com/marcelitos1v9/termocity"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dmarcelitos1v9%26repo%3Dtermocity%26theme%3Dradical%26show_owner%3Dtrue" /></a></td></tr><tr><td><a href="https://github.com/marcelitos1v9/aws-data-analysis"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dmarcelitos1v9%26repo%3Daws-data-analysis%26theme%3Dradical%26show_owner%3Dtrue" /></a></td><td><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dmarcelitos1v9%26repo%3DSuaProximaGrandeIdeia%26theme%3Dradical%26description%3DConstruindo%2Bo%2Bfuturo%2Bum%2Bcommit%2Bpor%2Bvez..." /></td></tr></table></div>📊 Performance & Estatísticas<div align="center"><img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmarcelitos1v9%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26border_radius%3D10"/><img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmarcelitos1v9%26layout%3Dcompact%26langs_count%3D7%26theme%3Dradical%26count_private%3Dtrue%26border_radius%3D10"/></div><div align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmarcelitos1v9%26theme%3Dradical%26border_radius%3D10" alt="Streak Stats" width="100%"/></div><div align="center"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dmarcelitos1v9%26theme%3Dradical%26row%3D1%26column%3D7%26no-bg%3Dtrue%26no-frame%3Dtrue" alt="Trophies" /></div>🐍 My Contributions<div align="center"><img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dmarcelitos1v9%26theme%3Dreact-dark%26bg_color%3D0d1117%26hide_border%3Dtrue" width="100%" /></div>🤝 Conecte-se Comigo<div align="center"><a href="https://www.linkedin.com/in/marcelo-augusto-a73827273" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="mailto:marceloaugustocge@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a><a href="https://www.google.com/search?q=https://marcelo-augusto.dev" target="_blank"> <!-- Link hipotético para portfolio --><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-FF5722%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" /></a></div><div align="center"><br /><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmarcelitos1v9%26color%3D00d2ff%26style%3Dflat-square%26label%3DPERFIL%2BVISITADO" alt="Visitor Count" /></div><div align="center"><img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00d2ff%26height%3D60%26section%3Dfooter"/></div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=250&section=header&text=Marcelo%20Augusto&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20%26%20Data%20Enthusiast&descAlignY=55&descSize=25" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Specialist;Data+Engineer;AWS+Cloud+Practitioner;Innovation+Driven&center=true&width=500&height=50&color=00d2ff&vCenter=true&size=25" />
+</div>
+
+<br/>
+
+## 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor focado na **intersecção entre Engenharia de Software e Inteligência Artificial**. Transformo dados brutos em sistemas escaláveis e insights acionáveis.
+
+🎓 **Formação:** Cursando Desenvolvimento de Software Multiplataforma (FATEC) & Técnico em Dev. Sistemas (ETEC).
+
+☁️ **Certificação:** AWS Certified Cloud Practitioner.
+
+🧠 **Foco Atual:** Arquiteturas distribuídas, LLMs (Large Language Models), Computer Vision e Pipelines de ETL.
+
+🚀 **Missão:** Resolver problemas complexos com código limpo e infraestrutura robusta.
+
+<br/>
+
+## 🛠️ Toolbox
+
+<div align="center">
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### IA & Engenharia de Dados
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+
+</div>
+
+<br/>
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+  
+<a href="https://github.com/marcelitos1v9/apex-bank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelitos1v9&repo=apex-bank&theme=radical" />
+</a>
+
+<a href="https://github.com/marcelitos1v9/termocity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelitos1v9&repo=termocity&theme=radical" />
+</a>
+
+<a href="https://github.com/marcelitos1v9/aws-data-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelitos1v9&repo=aws-data-analysis&theme=radical" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelitos1v9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelitos1v9&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelitos1v9&theme=radical" />
+</div>
+
+<br/>
+
+## 📫 Contato
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
+</div>
